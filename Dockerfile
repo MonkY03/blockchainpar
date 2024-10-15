@@ -1,3 +1,4 @@
+
 # Usa una imagen base de Nginx
 FROM nginx:alpine
 
